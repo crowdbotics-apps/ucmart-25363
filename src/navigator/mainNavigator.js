@@ -8,9 +8,10 @@ import SideMenu from "./sideMenu"
 
 /**
  * new navigators can be imported here
- */
+ */ import Chililabs0220037 from "../features/Chililabs0220037/navigator"
 
 const AppNavigator = {
+  Chililabs0220037: { screen: Chililabs0220037 },
   //@BlueprintNavigationInsertion
 
   /** new navigators can be added here */
